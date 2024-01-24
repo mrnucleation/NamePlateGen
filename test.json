@@ -1,0 +1,5 @@
+{
+    "projectname": "SuperModel",
+    "framework": "Keras",
+    "modelinfo": "VAE"
+}
